@@ -1,0 +1,82 @@
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.config
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.manifest
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.application
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.pdb
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojResolveAssemblyReference.cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.Cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe.manifest
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.application
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojResolveAssemblyReference.cache
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.Cache
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\DeleteWIPbyDate.exe
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\DeleteWIPbyDate.pdb
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\DeleteWIPbyDate.exe.config
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\DeleteWIPbyDate.exe.manifest
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\DeleteWIPbyDate.application
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\DeleteWIPbyDate.exe
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\DeleteWIPbyDate.pdb
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\DeleteWIPbyDate.exe.manifest
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\DeleteWIPbyDate.application
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+C:\Data\Juris Delete WIP Util\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\DeleteWIPbyDate.exe.config
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\DeleteWIPbyDate.exe
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\DeleteWIPbyDate.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\DeleteWIPbyDate.exe.manifest
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\DeleteWIPbyDate.application
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\DeleteWIPbyDate.exe
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\bin\x86\Release\DeleteWIPbyDate.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\DeleteWIPbyDate.exe.manifest
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Delete WIP Time and Expense by Date and Orig Tkpr\JurisUtilityBase\obj\x86\Release\DeleteWIPbyDate.application
